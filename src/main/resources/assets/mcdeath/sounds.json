@@ -1,0 +1,12 @@
+{
+  "miiiiinecraft": {
+    "category": "misc",
+    "subtitle": "subtitle.miiiiinecraft",
+    "sounds": [
+      {
+        "name": "mcdeath:miiiiinecraft",
+        "stream": true
+      }
+    ]
+  }
+}
